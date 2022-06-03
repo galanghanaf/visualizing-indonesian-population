@@ -728,8 +728,8 @@
       "properties": {
         "ID": 2,
         "kode": 52,
-        "Propinsi": "NUSA TENGGARA BARAT",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "NUSA TENGGARA BARAT",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -1067,8 +1067,8 @@
       "properties": {
         "ID": 3,
         "kode": 75,
-        "Propinsi": "GORONTALO",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "GORONTALO",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -2302,8 +2302,8 @@
       "properties": {
         "ID": 4,
         "kode": 74,
-        "Propinsi": "SULAWESI TENGGARA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SULAWESI TENGGARA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -2435,8 +2435,8 @@
       "properties": {
         "ID": 5,
         "kode": 34,
-        "Propinsi": "DI YOGYAKARTA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "DI YOGYAKARTA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -3042,8 +3042,8 @@
       "properties": {
         "ID": 6,
         "kode": 33,
-        "Propinsi": "JAWA TENGAH",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "JAWA TENGAH",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -3389,8 +3389,8 @@
       "properties": {
         "ID": 7,
         "kode": 36,
-        "Propinsi": "BANTEN",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "BANTEN",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -4364,8 +4364,8 @@
       "properties": {
         "ID": 8,
         "kode": 35,
-        "Propinsi": "JAWA TIMUR",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "JAWA TIMUR",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -6115,8 +6115,8 @@
       "properties": {
         "ID": 9,
         "kode": 82,
-        "Propinsi": "MALUKU UTARA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "MALUKU UTARA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -9058,8 +9058,8 @@
       "properties": {
         "ID": 10,
         "kode": 81,
-        "Propinsi": "MALUKU",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "MALUKU",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -9673,8 +9673,8 @@
       "properties": {
         "ID": 11,
         "kode": 63,
-        "Propinsi": "KALIMANTAN SELATAN",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "KALIMANTAN SELATAN",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -11180,8 +11180,8 @@
       "properties": {
         "ID": 12,
         "kode": 61,
-        "Propinsi": "KALIMANTAN BARAT",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "KALIMANTAN BARAT",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -12399,8 +12399,8 @@
       "properties": {
         "ID": 13,
         "kode": 73,
-        "Propinsi": "SULAWESI SELATAN",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SULAWESI SELATAN",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -12476,8 +12476,8 @@
       "properties": {
         "ID": 14,
         "kode": 31,
-        "Propinsi": "DKI JAKARTA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "DKI JAKARTA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -12933,8 +12933,8 @@
       "properties": {
         "ID": 15,
         "kode": 32,
-        "Propinsi": "JAWA BARAT",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "JAWA BARAT",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -18640,8 +18640,8 @@
       "properties": {
         "ID": 16,
         "kode": 94,
-        "Propinsi": "PAPUA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "PAPUA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -20575,8 +20575,8 @@
       "properties": {
         "ID": 17,
         "kode": 53,
-        "Propinsi": "NUSA TENGGARA TIMUR",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "NUSA TENGGARA TIMUR",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -20810,8 +20810,8 @@
       "properties": {
         "ID": 18,
         "kode": 51,
-        "Propinsi": "BALI",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "BALI",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -22337,8 +22337,8 @@
       "properties": {
         "ID": 19,
         "kode": 14,
-        "Propinsi": "RIAU",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "RIAU",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -26396,8 +26396,8 @@
       "properties": {
         "ID": 76,
         "kode": 21,
-        "Propinsi": "KEPULAUAN RIAU",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "KEPULAUAN RIAU",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -26779,8 +26779,8 @@
       "properties": {
         "ID": 77,
         "kode": 76,
-        "Propinsi": "SULAWESI BARAT",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SULAWESI BARAT",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -28724,8 +28724,8 @@
       "properties": {
         "ID": 20,
         "kode": 72,
-        "Propinsi": "SULAWESI TENGAH",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SULAWESI TENGAH",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -31095,8 +31095,8 @@
       "properties": {
         "ID": 21,
         "kode": 64,
-        "Propinsi": "KALIMANTAN TIMUR",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "KALIMANTAN TIMUR",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -31734,8 +31734,8 @@
       "properties": {
         "ID": 22,
         "kode": 71,
-        "Propinsi": "SULAWESI UTARA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SULAWESI UTARA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -39317,8 +39317,8 @@
       "properties": {
         "ID": 23,
         "kode": 91,
-        "Propinsi": "PAPUA BARAT",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "PAPUA BARAT",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -40458,8 +40458,8 @@
       "properties": {
         "ID": 24,
         "kode": 12,
-        "Propinsi": "SUMATERA UTARA",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SUMATERA UTARA",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -41061,8 +41061,8 @@
       "properties": {
         "ID": 25,
         "kode": 19,
-        "Propinsi": "BANGKA BELITUNG",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "BANGKA BELITUNG",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -41972,8 +41972,8 @@
       "properties": {
         "ID": 26,
         "kode": 13,
-        "Propinsi": "SUMATERA BARAT",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SUMATERA BARAT",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -43013,8 +43013,8 @@
       "properties": {
         "ID": 27,
         "kode": 62,
-        "Propinsi": "KALIMANTAN TENGAH",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "KALIMANTAN TENGAH",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -43910,8 +43910,8 @@
       "properties": {
         "ID": 28,
         "kode": 16,
-        "Propinsi": "SUMATERA SELATAN",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "SUMATERA SELATAN",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -44497,8 +44497,8 @@
       "properties": {
         "ID": 29,
         "kode": 15,
-        "Propinsi": "JAMBI",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "JAMBI",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -45062,8 +45062,8 @@
       "properties": {
         "ID": 30,
         "kode": 18,
-        "Propinsi": "LAMPUNG",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "LAMPUNG",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -45573,8 +45573,8 @@
       "properties": {
         "ID": 31,
         "kode": 17,
-        "Propinsi": "BENGKULU",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "BENGKULU",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
     {
@@ -46372,8 +46372,8 @@
       "properties": {
         "ID": 32,
         "kode": 11,
-        "Propinsi": "ACEH",
-        "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
+        "Province": "ACEH",
+        "source": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     }
   ]
